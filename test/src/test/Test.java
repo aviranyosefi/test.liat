@@ -8,6 +8,7 @@ public class Test {
 			System.out.println("liatc");
 			Demo temp = new Demo();
 			temp.run();
+			//naheshet 
 			System.out.println("aviran");
 		}
 
